@@ -1,1 +1,2 @@
 git is awesome.
+amends to gitText2.txt on github. Will try to pull this to terminal. 
